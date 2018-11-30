@@ -109,6 +109,7 @@ const swordsman = new Humanoid({
   language: 'Common Toungue',
 });
 
+// initiate object
 const archer = new Humanoid({
   createdAt: new Date(),
   dimensions: {
